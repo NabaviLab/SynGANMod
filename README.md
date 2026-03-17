@@ -1,4 +1,4 @@
-# Projection-Aware Longitudinal Tumor Synthesis
+# Tumor Generation in Longitudinal Mammograms via Transformer GAN with Adaptive Blending
 
 PyTorch implementation of a projection-aware longitudinal tumor synthesis framework for mammograms. The model uses paired prior and current mammograms, view/side embeddings, temporal cross-attention, a variational latent unit, anatomically constrained blending, and a Swin-based discriminator.
 
