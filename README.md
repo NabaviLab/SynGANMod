@@ -94,13 +94,3 @@ python infer.py \
   --save_dir outputs/inference
 ```
 
-## GitHub Commands
-
-```bash
-git init
-git add .
-git commit -m "Initial commit: projection-aware longitudinal tumor synthesis"
-git branch -M main
-git remote add origin https://github.com/<username>/<repo_name>.git
-git push -u origin main
-```
